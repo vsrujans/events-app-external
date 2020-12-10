@@ -74,6 +74,7 @@ app.get('/', (req, res) => {
                         // received from the server
                         events: body.events
                     }); // pass the data from the server to the template
+                    //new commit
             }
         });
 
